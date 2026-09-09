@@ -1465,7 +1465,7 @@ with tab5:
             "Current Conditions",
             "+20% Rainfall",
             "+40% Rainfall",
-            Extreme Storm"
+            "Extreme Storm"
         ],
 
         "Expected Risk":[
